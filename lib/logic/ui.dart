@@ -14,31 +14,31 @@ class TuneView extends StatelessWidget {
     TuneModel(
       color: const Color(0xffF44336),
       sound: 'audio/e_kiLl.mp3',
-      text: 'gameel',
+      text: 'Kill Sound',
       icon: const Icon(Icons.play_arrow),
     ),
     TuneModel(
       color: const Color(0xffF89800),
       sound: 'audio/Just Try.mp3',
-      text: 'abdallah',
+      text: 'Just Try Sound',
       icon: const Icon(Icons.play_arrow),
     ),
     TuneModel(
       color: const Color(0xffFEEB3B),
       sound: 'audio/Never Mind.mp3',
-      text: 'abdelrhman',
+      text: 'Never Mind',
       icon: const Icon(Icons.play_arrow),
     ),
     TuneModel(
       color: const Color(0xff4CAF50),
       sound: 'audio/einaudi.mp3',
-      text: 'bassant',
+      text: 'Einauddi Sound',
       icon: const Icon(Icons.play_arrow),
     ),
     TuneModel(
       color: const Color(0xff2F9688),
       sound: 'audio/spell.mp3',
-      text: 'm khaled ',
+      text: 'Speel Sound',
       icon: const Icon(Icons.play_arrow),
     ),
   ];
