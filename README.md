@@ -49,7 +49,7 @@ Ensure Flutter is installed on your machine
 Clone the repository:
 
 bash
-git clone https://github.com/shahndaa/Session4_Bonus.git
+git clone https://github.com/shahndaa/FlutterFeatureShowcase.git
 Install dependencies:
 
 bash
